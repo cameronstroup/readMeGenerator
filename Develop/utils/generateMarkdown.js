@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   # Questions
   If you have any question you can contact here: 
   ${data.githubUserame}
-  ${data.email}
+  ${data.email}](https://github.com/${data.username})
 
 
 `;
