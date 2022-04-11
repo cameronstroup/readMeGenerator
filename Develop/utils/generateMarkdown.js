@@ -16,14 +16,19 @@ function generateMarkdown(data) {
 <br>
 # Installation
   ${data.installation}
+  <br>
   # Usage
   ${data.usage}
+  <br>
   # License
   ${data.license}
+  <br>
   # Test
   ${data.test}
+  <br>
   # Contributing
   ${data.contribute}
+  <br>
   # Questions
   If you have any question you can contact here: 
   ${data.githubUserame}
