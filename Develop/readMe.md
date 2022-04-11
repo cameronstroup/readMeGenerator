@@ -1,8 +1,6 @@
-# ReadMe Generator
-  ![badge](https://img.shields.io/badge/license-APACHE-brightgreen)<br />
-  This is a tool used to create Readmes for future github projects, It is done by using node.js
-
-
+# ReadMeGenerator
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+  It is a tool to generate readmes after answering a serious of question
   ## Table of Contents:
   * [Installation](#install)
   * [Usage](#usage)
@@ -12,18 +10,21 @@
   * [Questions](#questions)
 <br>
 # Installation
-  install node.js
+  the user will have to install node.js
+  <br>
   # Usage
   generating readmes
+  <br>
   # License
-  APACHE
+  MIT
+  <br>
   # Test
   undefined
+  <br>
   # Contributing
   
+  <br>
   # Questions
   If you have any question you can contact here: 
   cameronstroup
-  cameron.d.stroup@gmail.com](https://github.com/undefined)
-
-
+  cameron.d.stroup@gmail.com](https://github.com/cameronstroup)
