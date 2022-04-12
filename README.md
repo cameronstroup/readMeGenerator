@@ -9,7 +9,8 @@
   * [Contributing](#contributing)
   * [Questions](#questions)
 <br>
-![image](https://user-images.githubusercontent.com/90347622/162858050-a93fa9ad-f3e1-428a-b075-80cd59bc88c4.png)
+![image](https://user-images.githubusercontent.com/90347622/162858276-192c007c-fa0b-44bd-a077-17b8a1b3cc8c.png)
+
 # Installation
   the user will have to install node.js
   <br>
